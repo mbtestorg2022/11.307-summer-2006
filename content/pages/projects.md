@@ -30,7 +30,7 @@ Group A - Liz Nguyen, Marissa Cheng, Peng Liu, Frank Yang Jiang, Neeraj Bhatia
 ([PDF - 2.8 MB]({{< baseurl >}}/resources/apres))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0 MB]({{< baseurl >}}/resources/aboards))
+([PDF - 4.0 MB]({{< baseurl >}}/resources/aboards))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Group B - Alex Lee, Ai Yamamoto, Non Arkaraprasertkuo, Sisi Liang, Jie Wang
 ([PDF - 9.6 MB]({{< baseurl >}}/resources/bpres))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.1 MB]({{< baseurl >}}/resources/bboards))
+([PDF - 8.1 MB]({{< baseurl >}}/resources/bboards))
 {{< tdclose >}}
 
 {{< trclose >}}
